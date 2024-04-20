@@ -1,0 +1,11 @@
+{
+    "files.defaultLanguage": "russian",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.inlayHints.fontFamily": "menio,monaco,'Courier New' , monospace",
+    "editor.inlayHints.fontSize": 14,
+    "eslint.codeActionsOnSave.rules": null,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
