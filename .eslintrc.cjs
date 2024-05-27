@@ -17,8 +17,11 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    //error dot 
     'semi': ['error', 'always', { "omitLastInOneLineBlock": false }],
+    //error weighing comma
     'comma-dangle': ['error', 'never'],
+    //single quotes
     quotes: ['error', 'single']
   },
 }
