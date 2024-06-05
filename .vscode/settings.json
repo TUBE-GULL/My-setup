@@ -1,6 +1,7 @@
 {
     //my settings VScode 
-    "files.defaultLanguage": "russian",
+    // language "english" or "russian"
+    "files.defaultLanguage": "english",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Monokai",
     "editor.formatOnSave": true,
@@ -11,7 +12,20 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.preferences.quoteStyle": "single",
     "github.copilot.editor.enableAutoCompletions": true,
+    //не уверен работает ли она у меня но сверху убереться панель
+    "workbench.layoutControl.enabled": false,
+    //скрыть мини карту с права ! 
+    "editor.minimap.enabled": false,
+    //задержка всп подсказак ! 
+    "editor.hover.delay": 1500,
+    //слева панель отладки ! 
+    "editor.glyphMargin": false,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
+    },
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
     },
 }
