@@ -11,7 +11,7 @@
     "eslint.codeActionsOnSave.rules": null,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "javascript.preferences.quoteStyle": "single",
-    "github.copilot.editor.enableAutoCompletions": true,
+    // "github.copilot.editor.enableAutoCompletions": true,
     //не уверен работает ли она у меня но сверху убереться панель
     "workbench.layoutControl.enabled": false,
     //скрыть мини карту с права ! 
